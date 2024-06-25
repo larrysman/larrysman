@@ -1,3 +1,4 @@
+# Olanrewaju Adegoke
 ## Hi there 👋
 
 I'm Olanrewaju Adegoke and I am currently residing in Paris, France. I am a data science and machine learning associate with strong background in pure and applied mathematics, statistics and computer science.
