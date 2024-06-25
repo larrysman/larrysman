@@ -1,6 +1,6 @@
 # Olanrewaju Adegoke
 ## Hi there 👋
-
+# About Me:
 I'm Olanrewaju Adegoke and I am currently residing in Paris, France. I am a data science and machine learning associate with strong background in pure and applied mathematics, statistics and computer science.
 I have strong technical skills in handling simple and complex datasets with the aim of bringing out actionable insights that support decision-making while leveraging on my data science, machine learning, mathematics, and statistical skills and concepts in establishing the attributive, associative and contributive relationships between features and outcome variables.
 
