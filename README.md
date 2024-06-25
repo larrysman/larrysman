@@ -25,4 +25,5 @@ Also, I have 5+ years of experience in manufacturing finance, production and pro
 
 I will be leveraging on all of these invaluable skills to bring the change and growth your organization is yarning for, I am just a call away!!!.
 
+#### Summary of Activities:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larrysman)](https://github.com/anuraghazra/github-readme-stats)
