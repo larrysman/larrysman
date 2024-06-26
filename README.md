@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olanrewaju Adegoke!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Olanrewaju Adegoke!
 ===========================================================================================================================================
 
-Data Science and Machine Learning
----------------------------------
+Data scientist, Data Analyst and Machine Learning professional
+--------------------------------------------------------------
 
-I am a data science and machine learning associate with strong background in pure and applied mathematics, statistics and computer science. I have strong technical skills in handling simple and complex datasets with the aim of bringing out actionable insights that support decision-making while leveraging on my data science, machine learning, mathematics, and statistical skills and concepts in establishing the attributive, associative and contributive relationships between features and outcome variables.
+I am a data scientist, data analyst and machine learning engineer with strong background in pure and applied mathematics, statistics and computer science. I have strong technical skills in handling simple and complex datasets with the aim of bringing out actionable insights that support decision-making while leveraging on my data science, machine learning, mathematics, and statistical skills and concepts in establishing the attributive, associative and contributive relationships between features and outcome variables.
 
 I am confident in the use of python programming and python libraries like NumPy, Pandas for data wrangling and manipulations, Matplotlib and Seaborn for exploratory data analysis and insights deep-diving, Sckikit-Learn libraries for machine learning pipelines and algorithms, Pytorch, TensorFlow, OpenCV for image preprocessing and transformation and neural network models for achieving high-end and robust performance with deep understanding in supervised and unsupervised learning, computer vision, natural language processing, neural networks and deep learning frameworks.
 
