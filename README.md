@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Olanrewaju Adegoke!
 ===========================================================================================================================================
 
-Data scientist, Data Analyst and Machine Learning professional
+Data Scientist, Data Analyst and Machine Learning professional
 --------------------------------------------------------------
 
 I am a data scientist, data analyst and machine learning engineer with strong background in pure and applied mathematics, statistics and computer science. I have strong technical skills in handling simple and complex datasets with the aim of bringing out actionable insights that support decision-making while leveraging on my data science, machine learning, mathematics, and statistical skills and concepts in establishing the attributive, associative and contributive relationships between features and outcome variables.
