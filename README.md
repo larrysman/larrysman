@@ -28,7 +28,7 @@ I am confident in the use of Python, Microsoft Power BI, Tableau and Advanced Mi
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [larrysman2004@yahoo.com](mailto:larrysman2004@yahoo.com)
-* 🚀  I have worked on [projects][(http://github.com/larrysman?tab=repositories)]
+* 🚀  I have worked on [projects](http://github.com/larrysman?tab=repositories)
 * 🧠  I'm learning Artificial Intelligence, Data Science, Machine Learning, text mining and preprocessing for LLMs
 * 🤝  I'm open to collaborating on Data Science and Machine Learning Projects
 * ⚡  My background is in pure and applied mathematics with statistics and definitely I make deductive insights from numbers on codes!!!
