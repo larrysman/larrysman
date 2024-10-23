@@ -3,12 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Scientist, Data Analyst and Machine Learning Engineer
 --------------------------------------------------------------
+Dynamic and innovative data scientist, data analyst and machine learning engineer with strong skills in developing advanced solutions and implementing statistical and algorithmic models across different problem domains and use cases. I possessed strong technical expertise in transforming, pre-processing, and analyzing time series and complex datasets (text, images, audio, and tabular) through the core of data science, machine learning and python toolkits. Expert in developing natural language processing, machine learning and deep learning models, evaluating these models and optimizing them for improved performance that focuses on specific objective.
+I have strong technical skills in handling simple and complex datasets with the aim of bringing out actionable insights that support decision-making processes leveraging on my data science, machine learning, mathematics, and statistical skills and concepts in establishing the attributive, associative and contributive relationships between features and outcome variables.
 
-I'm a dynamic and innovative data scientist, data analyst and machine learning engineer with strong background in pure and applied mathematics, statistics and computer science. I have strong technical skills in handling simple and complex datasets with the aim of bringing out actionable insights that support decision-making processes leveraging on my data science, machine learning, mathematics, and statistical skills and concepts in establishing the attributive, associative and contributive relationships between features and outcome variables.
+I am confident in the use of python programming and python libraries such as NumPy, Pandas for data wrangling and manipulations, Matplotlib, plotly and Seaborn for detailed exploratory data analysis and bring out actionable insights, Sckikit-Learn libraries and machine learning frameworks and algorithms, Pytorch, TensorFlow, OpenCV for text, and image preprocessing and transformation and neural network models for achieving high-end and robust performance with deep understanding in supervised and unsupervised learning, computer vision, natural language processing, neural networks and deep learning frameworks.
 
-I am confident in the use of python programming and python libraries like NumPy, Pandas for data wrangling and manipulations, Matplotlib and Seaborn for exploratory data analysis and insights deep-diving, Sckikit-Learn libraries for machine learning pipelines and frameworks and algorithms, Pytorch, TensorFlow, OpenCV for image preprocessing and transformation and neural network models for achieving high-end and robust performance with deep understanding in supervised and unsupervised learning, computer vision, natural language processing, neural networks and deep learning frameworks.
-
-I have engaged in many data science and machine learning projects where I have carefully followed the key cadance of steps for a successful data science and machine learning modeling and deployment and they include: 
+I have engaged in many data science and machine learning projects where I have carefully followed the key steps for carrying out a successful data science and machine learning projects and they include: 
 - Problem Framing
 - Conductiing industry and academic research into the problem
 - Conducting experiments to identify relevant input features
@@ -17,7 +17,7 @@ I have engaged in many data science and machine learning projects where I have c
 - Collection of data or using a secondary annotated data for input features based on validated construct
 - Data preparation, preprocessing and features engineering
 - Model experimentation
-- Model Architecture and Combination Stacking
+- Model Architecture and Model Combination (Stacking or Voting)
 - Model Development
 - Model Performance Improvement and Evaluation
 - Code Optimization
