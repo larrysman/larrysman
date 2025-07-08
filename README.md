@@ -1,9 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Olanrewaju Adegoke!
 ===========================================================================================================================================
 
-Data Scientist, Data Analyst and Machine Learning Engineer
---------------------------------------------------------------
-Dynamic and innovative data scientist, data analyst and machine learning engineer with strong skills in developing advanced solutions and implementing statistical and algorithmic models across different problem domains and use cases. I possessed strong technical expertise in transforming, pre-processing, and analyzing time series and complex datasets (text, images, audio, and tabular) through the core of data science, machine learning and python toolkits. Expert in developing natural language processing, machine learning and deep learning models, evaluating these models and optimizing them for improved performance that focuses on specific objective.
+Quantitative ad Data Science Developer, Data Scientist and Machine Learning Engineer
+------------------------------------------------------------------------------------
+I have just completed and deployed a project on the application of large language model to company valuation leveraging on prompt engineering, natural language processing, LLM evaluation and development of quantitative techniques, KPIs and metrics for evaluating if a etity is investible or not, is a major breakthrough and value-riching solutions to investment bankers, ivestors and business owners and demystyfying the capability of the LLM and how it can impact business and decision-making for company.
+
+I am currently working on developing multiple agents using the Agentic AI and workflow for financial and trading businesses and portfolio and here is my brief introduction:
+
+Dynamic and innovative quantitative ad data science developer, data scientist and machine learning engineer with strong skills in developing advanced solutions and implementing statistical and algorithmic models across different problem domains and use cases. I possessed strong technical expertise in transforming, pre-processing, and analyzing time series and complex datasets (text, images, audio, and tabular) through the core of data science, machine learning and python toolkits. Expert in developing natural language processing, machine learning and deep learning models, evaluating these models and optimizing them for improved performance that focuses on specific objective.
 I have strong technical skills in handling simple and complex datasets with the aim of bringing out actionable insights that support decision-making processes leveraging on my data science, machine learning, mathematics, and statistical skills and concepts in establishing the attributive, associative and contributive relationships between features and outcome variables.
 
 I am confident in the use of python programming and python libraries such as NumPy, Pandas for data wrangling and manipulations, Matplotlib, plotly and Seaborn for detailed exploratory data analysis and bring out actionable insights, Sckikit-Learn libraries and machine learning frameworks and algorithms, Pytorch, TensorFlow, OpenCV for text, and image preprocessing and transformation and neural network models for achieving high-end and robust performance with deep understanding in supervised and unsupervised learning, computer vision, natural language processing, neural networks and deep learning frameworks.
@@ -23,6 +27,8 @@ I have engaged in many data science and machine learning projects where I have c
 - Code Optimization
 - Model Deployment Strategy
 - Result Presentation.
+- CI/CD
+- DevOPs
 
 I am confident in the use of Python, Microsoft Power BI, Tableau and Advanced Microsoft Excel for detailed and robust analysis on data and generate insights that support decision-making process.
 
