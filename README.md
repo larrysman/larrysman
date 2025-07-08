@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Olanrewaju Adegoke!
 ===========================================================================================================================================
 
-Quantitative ad Data Science Developer, Data Scientist and Machine Learning Engineer
+Quantitative and Data Science Developer, Data Scientist and Machine Learning Engineer
 ------------------------------------------------------------------------------------
 I have just completed and deployed a project on the application of large language model to company valuation leveraging on prompt engineering, natural language processing, LLM evaluation and development of quantitative techniques, KPIs and metrics for evaluating if a etity is investible or not, is a major breakthrough and value-riching solutions to investment bankers, ivestors and business owners and demystyfying the capability of the LLM and how it can impact business and decision-making for company.
 
