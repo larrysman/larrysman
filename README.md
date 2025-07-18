@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Quantitative and Data Science Developer, Data Scientist and Machine Learning Engineer
 ------------------------------------------------------------------------------------
-I have just completed and deployed a project on the application of large language model to company valuation leveraging on prompt engineering, natural language processing, LLM evaluation and development of quantitative techniques, KPIs and metrics for evaluating if a etity is investible or not, is a major breakthrough and value-riching solutions to investment bankers, ivestors and business owners and demystyfying the capability of the LLM and how it can impact business and decision-making for company.
+I have just completed and deployed a project on the application of large language model to company valuation leveraging on prompt engineering, natural language processing, LLM evaluation and development of quantitative techniques, KPIs and metrics for evaluating if an entity is investible or not, is a major breakthrough and value-riching solutions to investment bankers, ivestors and business owners and demystyfying the capability of the LLM and how it can impact business and decision-making for company.
 
 I am currently working on developing multiple agents using the Agentic AI and workflow for financial and trading businesses and portfolio and here is my brief introduction:
 
