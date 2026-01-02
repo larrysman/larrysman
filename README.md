@@ -1,68 +1,150 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Olanrewaju Adegoke!
-===========================================================================================================================================
+# 🚀 **Olanrewaju Adegoke**
+### *Quantitative & Data Science Developer | Machine Learning & AI Engineer | Python Developer | Researcher* 
 
-Quantitative and Data Science Developer, Data Scientist and Machine Learning Engineer
-------------------------------------------------------------------------------------
-I have just completed and deployed a project on the application of large language model to company valuation leveraging on prompt engineering, natural language processing, LLM evaluation and development of quantitative techniques, KPIs and metrics for evaluating if an entity is investible or not, is a major breakthrough and value-riching solutions to investment bankers, ivestors and business owners and demystyfying the capability of the LLM and how it can impact business and decision-making for company.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/olanrewaju-adegoke-18012011)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/larrysman)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:larrysman2004@yahoo.com)
 
-I am currently working on developing multiple agents using the Agentic AI and workflow for financial and trading businesses and portfolio and here is my brief introduction:
+## 👋 **About Me**
 
-Dynamic and innovative quantitative ad data science developer, data scientist and machine learning engineer with strong skills in developing advanced solutions and implementing statistical and algorithmic models across different problem domains and use cases. I possessed strong technical expertise in transforming, pre-processing, and analyzing time series and complex datasets (text, images, audio, and tabular) through the core of data science, machine learning and python toolkits. Expert in developing natural language processing, machine learning and deep learning models, evaluating these models and optimizing them for improved performance that focuses on specific objective.
-I have strong technical skills in handling simple and complex datasets with the aim of bringing out actionable insights that support decision-making processes leveraging on my data science, machine learning, mathematics, and statistical skills and concepts in establishing the attributive, associative and contributive relationships between features and outcome variables.
+I’m a **quantitative and data science developer** with a strong foundation in **pure & applied mathematics**, advanced **machine learning**, **data science**, and modern **AI engineering**. My work sits at the intersection of:
 
-I am confident in the use of python programming and python libraries such as NumPy, Pandas for data wrangling and manipulations, Matplotlib, plotly and Seaborn for detailed exploratory data analysis and bring out actionable insights, Sckikit-Learn libraries and machine learning frameworks and algorithms, Pytorch, TensorFlow, OpenCV for text, and image preprocessing and transformation and neural network models for achieving high-end and robust performance with deep understanding in supervised and unsupervised learning, computer vision, natural language processing, neural networks and deep learning frameworks.
+- 🧠 Statistical learning theory & optimization  
+- 🔬 Numerical modeling (ODEs, PDEs, Dynamical Systems)  
+- 🤖 LLMs, NLP, deep learning & agentic AI  
+- 🌍 Environmental modeling & decision-support systems  
+- ⚙️ Reproducible ML engineering & scalable pipelines  
 
-I have engaged in many data science and machine learning projects where I have carefully followed the key steps for carrying out a successful data science and machine learning projects and they include: 
-- Problem Framing
-- Conductiing industry and academic research into the problem
-- Conducting experiments to identify relevant input features
-- Framing of the constructs for input-output models
-- Testing the construct and validation
-- Collection of data or using a secondary annotated data for input features based on validated construct
-- Data preparation, preprocessing and features engineering
-- Model experimentation
-- Model Architecture and Model Combination (Stacking or Voting)
-- Model Development
-- Model Performance Improvement and Evaluation
-- Code Optimization
-- Model Deployment Strategy
-- Result Presentation.
-- CI/CD
-- DevOPs
+I build intelligent systems that are **scientifically rigorous**, **explainable**, and **production-ready**.
 
-I am confident in the use of Python, Microsoft Power BI, Tableau and Advanced Microsoft Excel for detailed and robust analysis on data and generate insights that support decision-making process.
+## 🎯 **Research Interests**
 
-* 🌍  I'm based in Paris
-* ✉️  You can contact me at [larrysman2004@yahoo.com](mailto:larrysman2004@yahoo.com)
-* 🚀  I have worked on [projects](http://github.com/larrysman?tab=repositories)
-* 🧠  I'm learning Artificial Intelligence, Data Science, Machine Learning, text mining and preprocessing for LLMs
-* 🤝  I'm open to collaborating on Data Science and Machine Learning Projects
-* ⚡  My background is in pure and applied mathematics with statistics and definitely I make deductive insights from numbers on codes!!!
+- Machine Learning Theory: generalization, optimization, representation learning  
+- Numerical Modeling: physics-informed ML, ODE/PDE-driven modeling  
+- GeoAI & Environmental Analytics: climate, weather, and spatiotemporal modeling  
+- LLMs & Agentic AI: reasoning systems, multi-agent workflows, RAG pipelines  
+- Explainable AI: interpretability, attribution, counterfactual reasoning  
+- Time-Series & Dynamical Systems: forecasting, anomaly detection, hybrid models  
 
-<a href="https://www.github.com/larrysman" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/larrysman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/larrysman" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/larrysman?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+## 🛠️ **Tech Stack**
 
-### Skills
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+### **Machine Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+
+### **MLOps & Engineering**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+### **Cloud & Big Data**
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+
+### **Visualization**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+
+## 📂 **Highlighted Projects**
+
+### 🔹 **LLM-Powered Company Valuation System**  
+**Tech:** LLMs, Prompt Engineering, LLM-Evaluations, Python, Automation, Data Pipeline, NLP, MLflow, FastAPI  
+- Built a valuation engine using LLMs + quantitative metrics  
+- Designed evaluation frameworks for financial reasoning
+- Designed interactive dashboards for robust insights  
+- Deployed as a production-ready API  
+🔗 *Private repository only available upon request*
+
+---
+
+### 🔹 **Few-Shot Learning for Agricultural Disease Detection**  
+**Tech:** CNNs, Metric Learning, Transfer Learning, Deep Learning, Python, Streamlit  
+- Developed few-shot models for crop disease classification  
+- Built a deployable prototype for agricultural decision support  
+🔗 https://github.com/larrysman/action_learning
+
+---
+
+### 🔹 **Energy Consumption Forecasting (Time-Series)**  
+**Tech:** ARIMA, LSTM, XGBoost, Feature Engineering, Classical ML, Python, NumPy, Pandas, Smoothing and Trends Analytics  
+- Modeled long-term consumption patterns  
+- Compared classical vs deep learning forecasting
+- Built a deployable production-grade for energy consumption
+
+🔗 https://github.com/larrysman/time-series-analysis-for-energy-consumption
+
+---
+
+### 🔹 **Reproducible ML Pipeline for Disease Classification**  
+**Tech:** Feature Engineering, Python, NumPy, Pandas, DVC, MLflow, VGG16, OOP, Machine Learning, Deep Learning, Pipeline Development, Automation 
+- Built a fully reproducible ML workflow  
+- Implemented experiment tracking and model versioning  
+
+🔗 https://github.com/larrysman/kidney-disease-classification-with-DVC-and-MLFlow
+
+---
+
+### 🔹 **NLP for E-Commerce Product Insights**  
+**Tech:** NLP, Python, NumPy, Pandas, CountVectorizer, TF-IDF, spaCy, Transformers, Keras, Topic Modeling,  Classification 
+- Extracted product attributes and consumer themes  
+- Built classification and clustering pipelines
+
+🔗 https://github.com/larrysman/e-commerce-with-nlp
+
+## 🌱 **What I’m Learning Now**
+- Agentic AI & multi-agent systems  
+- GeoAI & scalable spatial analytics  
+- Physics-informed machine learning  
+- High-performance computing for ML  
+
+## 🤝 **Let’s Collaborate**
+I’m open to collaborations in:
+
+- Machine learning research  
+- GeoAI & environmental modeling  
+- NLP & LLM systems  
+- Reproducible ML engineering  
+- Scientific computing & numerical modeling  
+
+## 📫 **Contact**
+📍 Paris, France  
+
+📧 Email: larrysman2004@yahoo.com 
+
+🌐 GitHub: https://github.com/larrysman  
+
+🔗 LinkedIn: https://linkedin.com/in/olanrewaju-adegoke-18012011
+
+## 🏅 **Badges**
+
+![Profile Views](https://komarev.com/ghpvc/?username=larrysman&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/larrysman?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/larrysman?affiliations=OWNER&style=social)
+![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Support%20My%20Work-red?logo=githubsponsors)
+
+## 📊 **My GitHub Stats**
+
+<p align="center">
+  <a href="https://github.com/larrysman">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=larrysman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/larrysman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/larrysman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/olanrewaju-adegoke-18012011" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/Olalytics" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/larrysman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@olalytics" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/larrysman"><img src="https://github-readme-stats.vercel.app/api?username=larrysman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="larrysman's GitHub stats" /></a>
-
-<a href="http://www.github.com/larrysman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=larrysman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/larrysman"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=larrysman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="larrysman's GitHub Commits Graph" /></a>
-
-<a href="https://github.com/larrysman" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrysman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="https://github.com/larrysman">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=larrysman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
+  </a>
+</p>
